@@ -1,0 +1,55 @@
+
+.btn{
+    border: 1px solid yellowgreen;
+    background: none;
+    padding: 15px 32px;
+    font-size: 20px;
+    font-family: 'montserrat';
+    cursor: pointer;
+    margin: 40px 40px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+  }
+  .btn1{
+    color: yellowgreen;
+  }
+  
+  .btn1:hover {
+    color: #fff;
+    background: yellowgreen;
+    transition: 0.8s;
+  }
+  form {
+    margin: 0 auto;
+    padding: 30px;
+    min-width: 240px;
+    max-width: 350px;
+    max-height: calc(100% - 140px);
+    overflow: auto;
+    background-color: #362d6b;
+    background-color: var(--primary);
+  }
+  .card{
+    border: 1px solid yellowgreen;
+  }
+  .card-body{
+    text-align: center;
+  }
+  
+  .exchange_icon{
+  
+    border: 1px solid yellowgreen;
+    padding: 2%;
+  
+  }
+  .exchange_icon{
+  margin: auto;
+    width: max-content;
+  
+  }
+  
+  
+  
+  
+  
